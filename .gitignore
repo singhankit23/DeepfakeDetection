@@ -20,3 +20,8 @@ data/preprocessed/
 # OS files
 .DS_Store
 Thumbs.db
+# Ignore the entire virtual environment folder
+vit_deepfake_env/
+
+# Also ignore standard venv names
+.venv/
